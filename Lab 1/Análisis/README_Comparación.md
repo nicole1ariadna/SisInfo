@@ -25,4 +25,4 @@ Para este laboratorio (3 KPIs, 4 visuales, metas mensuales y colores corporativo
 - **Para este lab**: **Power BI** — por **simplicidad**, **tema corporativo** inmediato y **KPI de Cumplimiento** sin acciones.
 - **Cuándo elegir Tableau**: cuando el foco sea **exploración ad‑hoc** y **filtros por interacción** más sofisticados.
 
-> Ambos llegan al mismo resultado; la diferencia está en los **pasos**. Entrega ambos y explica por qué Power BI fue más directo y qué valor aporta Tableau en interactividad.
+> Ambos llegan al mismo resultado; la diferencia está en los **pasos**.
