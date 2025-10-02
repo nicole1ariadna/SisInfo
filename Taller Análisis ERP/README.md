@@ -3,6 +3,7 @@
 ## Colaboradores
 - [ ] Nombre 1
 - [ ] Nombre 2
-- [ ] Daniel Alonso Gracia Pinto
+- [ ] Nombre 3
 - [ ] Nombre 4
-- [ ] Nombre 5
+- [ ] Nicole Ariadna Celemin Triana
+
