@@ -4,6 +4,7 @@
 - [ ] Nombre 1
 - [ ] Nombre 2
 - [ ] Daniel Alonso Gracia Pinto
-- [ ] Nombre 4
+- [ ] Juan David Cruz Giraldo
 - [ ] Nicole Ariadna Celemin Triana
+
 
