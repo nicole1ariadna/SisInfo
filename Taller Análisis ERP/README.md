@@ -3,8 +3,9 @@
 ## Colaboradores
 - [ ] Nombre 1
 - [ ] Nombre 2
-- [ ] Nombre 3
+- [ ] David Alejandro Herrera Novoa
 - [ ] Juan David Cruz Giraldo
 - [ ] Nicole Ariadna Celemin Triana
+
 
 
