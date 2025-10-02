@@ -4,6 +4,7 @@
 - [ ] Nombre 1
 - [ ] Nombre 2
 - [ ] Nombre 3
-- [ ] Nombre 4
+- [ ] Juan David Cruz Giraldo
 - [ ] Nicole Ariadna Celemin Triana
+
 
