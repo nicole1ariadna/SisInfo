@@ -1,6 +1,6 @@
-# 📂 Entregas Individuales - Sistemas de Información
+# 📂 Entregas Individuales y Grupales - Sistemas de Información
 
-Este repositorio contiene mis **entregas individuales** para la materia de **Sistemas de Información**.  
+Este repositorio contiene mis **entregas individuales** y **entregas grupales** para la materia de **Sistemas de Información**.  
 Aquí se incluyen los trabajos, ejercicios y proyectos desarrollados a lo largo del curso, organizados por entregas.
 
 ## 📌 Contenido
