@@ -18,3 +18,15 @@ Por otro lado, un sistema **CRM (Customer Relationship Management)** está orien
 * **Atención al Cliente:** Soporte postventa, gestión de incidencias y fidelización.
 
 El propósito de un CRM es mejorar la adquisición y retención de clientes, personalizar la comunicación y, en última instancia, impulsar el crecimiento de los ingresos a través de una relación más sólida con el cliente.
+
+### Cuadro Comparativo: ERP vs. CRM
+
+| Característica | Sistema ERP (Planificación de Recursos Empresariales) | Sistema CRM (Gestión de Relaciones con el Cliente) |
+| :--- | :--- | :--- |
+| **Enfoque Principal** | Procesos internos y operativos del negocio. | Relaciones e interacciones con clientes y prospectos. |
+| **Objetivo Clave** | Reducir costes, aumentar la eficiencia y optimizar recursos. | Aumentar los ingresos por ventas y la fidelidad del cliente. |
+| **Usuarios Típicos** | Departamentos de finanzas, operaciones, logística, RR.HH. | Equipos de ventas, marketing y atención al cliente. |
+| **Orientación** | *Back-Office* (Gestión interna). | *Front-Office* (Interacción externa). |
+| **Datos Gestionados** | Datos financieros, de inventario, producción, cadena de suministro. | Datos de contactos, historial de interacciones, ventas, soporte. |
+
+En resumen, mientras que el ERP mira hacia adentro para optimizar la maquinaria del negocio, el CRM mira hacia afuera para fortalecer las relaciones que impulsan su crecimiento. Aunque son diferentes, no son mutuamente excluyentes; de hecho, la integración de un ERP y un CRM puede proporcionar una visión 360° del negocio, conectando la demanda del cliente con la capacidad operativa de la empresa.
