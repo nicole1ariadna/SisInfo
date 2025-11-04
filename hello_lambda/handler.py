@@ -28,6 +28,6 @@ def handler(event, context):
     }
 
 # Prueba local (python handler.py)
-if _name_ == "__main__":
+if __name__ == "__main__":
     fake_ctx = type("ctx", (), {"aws_request_id": "dev-local"})()
     print(handler({"ping": True}, fake_ctx))
