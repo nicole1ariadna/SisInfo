@@ -1,0 +1,2 @@
+Los sistemas mecánicos vibran cuando se someten a fuerzas periódicas. 
+La frecuencia natural depende de la masa y la rigidez.

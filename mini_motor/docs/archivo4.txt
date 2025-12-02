@@ -1,0 +1,2 @@
+El comportamiento de los fluidos en movimiento se describe mediante ecuaciones diferenciales. 
+La ecuación de continuidad garantiza la conservación de la masa.

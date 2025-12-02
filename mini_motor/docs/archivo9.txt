@@ -1,0 +1,2 @@
+El álgebra lineal se utiliza para resolver sistemas de ecuaciones y modelar transformaciones. 
+Los vectores y matrices son elementos fundamentales.

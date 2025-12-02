@@ -1,0 +1,2 @@
+El procesamiento de señales analiza cómo se comportan señales en el dominio del tiempo y la frecuencia. 
+La transformada de Fourier es una herramienta clave en este campo.

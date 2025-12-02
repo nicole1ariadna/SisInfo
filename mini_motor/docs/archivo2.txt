@@ -1,0 +1,2 @@
+El mecanismo Scotch Yoke transforma movimiento rotacional en movimiento lineal. 
+Su uso es común en compresores y actuadores de baja velocidad.

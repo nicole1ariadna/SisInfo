@@ -1,0 +1,11 @@
+[package]
+name = "mini_tantivy_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22"
+egui = "0.22"
+tantivy = "0.18"
+anyhow = "1.0"
+winapi = { version = "0.3", features = ["winuser"]}

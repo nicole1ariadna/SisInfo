@@ -1,0 +1,2 @@
+Rust es un lenguaje de programación enfocado en seguridad y rendimiento. 
+Su sistema de ownership evita errores comunes en memoria.

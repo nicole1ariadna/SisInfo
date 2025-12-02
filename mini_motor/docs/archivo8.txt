@@ -1,0 +1,2 @@
+La inteligencia artificial permite que los sistemas aprendan de los datos. 
+Los modelos modernos como redes neuronales son potentes en clasificación.

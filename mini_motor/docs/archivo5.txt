@@ -1,0 +1,2 @@
+Los motores de combustión interna generan energía mediante la ignición de una mezcla aire-combustible. 
+El pistón realiza un movimiento alternativo dentro del cilindro.
